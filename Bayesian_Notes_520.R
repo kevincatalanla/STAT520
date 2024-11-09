@@ -23,10 +23,10 @@ BBB<-function(n,p,alpha,beta)
  
 }
 
-n<-10
-p<-0.3
-alpha<-2
-beta<-2
+n<-7
+p<-0.4
+alpha<-1
+beta<-1
 
 BBB(n,p,alpha,beta)
 
